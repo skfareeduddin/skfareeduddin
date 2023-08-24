@@ -9,7 +9,7 @@
 
 - 📝 Look up my blogs on [https://skfareeduddin.substack.com/](https://skfareeduddin.substack.com/)
 
-- 💬 Ask me about **app development**
+- 💬 Ask me about **software development & machine learning**
 
 - 📫 You can reach me at **skfareeduddin5@gmail.com**
 
