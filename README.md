@@ -1,5 +1,5 @@
-### <div align="center">I'm Syed Khaja Fareeduddin, a Flutter Developer.</div>  
-### <div align="center">Moderator @ CodeWave Hub</div>
+### <div align="center">I'm Syed Khaja Fareeduddin</div>  
+### <div align="center">Flutter Developer | Moderator @ CodeWave Hub</div>
   
 
 - 🔭 I’m currently working on [Gromer](https://waitlist.gromer.pro/)  
