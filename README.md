@@ -1,9 +1,12 @@
-### <div align="center">I'm Syed Khaja Fareeduddin</div>  
-### <div align="center">Flutter Developer | Moderator @ CodeWave Hub </div>
+### <h1 align="center">Syed Khaja Fareeduddin</h1>
+<h3 align="center"> Mobile App Developer at Lords TBI | Technology Head at CodeWave Hub </h3>
+<br />
 
-- 🌱 I’m currently learning Mobile App Development  
+- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.
 
-- ❓ Ask me about anything related to Flutter & Firebase  
+- Looking forward to collaborate on different projects.
+
+- Aspiring to be a Machine Learning Engineer.
 
 <br/>  
 
