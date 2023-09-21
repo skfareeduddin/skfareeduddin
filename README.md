@@ -2,7 +2,7 @@
 ### <div align="center">Flutter Developer | Moderator @ CodeWave Hub </div>
   
 
-- 🔭 I’m currently working on [Gromer](https://waitlist.gromer.pro/)  
+//- 🔭 I’m currently working on [Gromer](https://waitlist.gromer.pro/)  
   
 
 - 🌱 I’m currently learning Mobile App Development  
