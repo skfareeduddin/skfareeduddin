@@ -1,12 +1,9 @@
 ### <div align="center">I'm Syed Khaja Fareeduddin</div>  
 ### <div align="center">Flutter Developer | Moderator @ CodeWave Hub </div>
 
-  
 - 🌱 I’m currently learning Mobile App Development  
-  
 
 - ❓ Ask me about anything related to Flutter & Firebase  
-  
 
 <br/>  
 
