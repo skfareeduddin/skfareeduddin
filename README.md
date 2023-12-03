@@ -4,7 +4,7 @@
 
 - I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.
 
-- Looking forward to collaborate on different projects.
+- Looking forward to collaborate on app development projects.
 
 - Aspiring to be a Machine Learning Engineer.
 
