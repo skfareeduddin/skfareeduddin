@@ -1,8 +1,8 @@
 ### <h1 align="center">Syed Khaja Fareeduddin</h1>
-<h3 align="center"> Mobile App Developer at Lords TBI | Technology Head at CodeWave Hub </h3>
+<h3 align="center"> Flutter Developer </h3>
 <br />
 
-- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.
+<!--- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.-->
 
 - Looking forward to collaborate on app development projects.
 
@@ -94,8 +94,10 @@
 <img src="https://komarev.com/ghpvc/?username=skfareeduddin&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
+
+[![Fareeduddin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skfareeduddin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <br />
