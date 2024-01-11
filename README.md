@@ -6,7 +6,6 @@
 
 - Looking forward to collaborate on app development projects.
 - Currently learning Go lang.
-- Aspiring to be a Machine Learning Engineer.
 
 <br/>  
 
