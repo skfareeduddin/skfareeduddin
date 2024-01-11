@@ -10,11 +10,15 @@
 
 <br/>  
 
+## My Resume  
+
+<img src="https://github.com/skfareeduddin/skfareeduddin/assets/82967660/1a805139-b61e-46ca-92fb-e8868741e58c" alt="Fareed Resume-1" width="400" height="600" style="margin-right: 20px;">
+
+<img src="https://github.com/skfareeduddin/skfareeduddin/assets/82967660/c331ef4f-07f4-408b-8c19-c74d24f5a1cd" alt="Fareed Resume-2" width="400" height="600">
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -31,8 +35,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
@@ -40,8 +42,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -66,8 +66,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
 
 
