@@ -9,11 +9,11 @@
 
 <br/>  
 
-## My Resume  
+<!--## My Resume  
 
 <img src="https://github.com/skfareeduddin/skfareeduddin/assets/82967660/1a805139-b61e-46ca-92fb-e8868741e58c" alt="Fareed Resume-1" width="400" height="600" style="margin-right: 20px;">
 
-<img src="https://github.com/skfareeduddin/skfareeduddin/assets/82967660/c331ef4f-07f4-408b-8c19-c74d24f5a1cd" alt="Fareed Resume-2" width="400" height="600">
+<img src="https://github.com/skfareeduddin/skfareeduddin/assets/82967660/c331ef4f-07f4-408b-8c19-c74d24f5a1cd" alt="Fareed Resume-2" width="400" height="600"> -->
 
 
 ## My Skill Set  
