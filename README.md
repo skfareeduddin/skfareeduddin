@@ -1,6 +1,6 @@
 ### <h1 align="center">Syed Khaja Fareeduddin</h1>
 <!---<h3 align="center"> Flutter Developer </h3>-->
-<h3 align="center">I'm a passionate Flutter Developer based in Hyderabad. I love exploring new technologies and I am on a mission to excel in the world of software development.</h3>
+<h3 align="center">I'm a passionate Flutter Developer based in Hyderabad.</h3>
 <br />
 
 <!--- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.-->
