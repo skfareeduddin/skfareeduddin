@@ -6,9 +6,8 @@
 <!--- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.-->
 
 
-- 🌱 I’m currently learning Go
-- 🔍 I’m looking for internship opportunities
-- ✊🏻 Working towards my goal to become a Software Engineer at Google
+- 🌱 Currently learning Go
+- 🔍 Looking for internship opportunities
 
 <br/>  
 
