@@ -6,7 +6,7 @@
 <!--- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.-->
 
 
-- 🌱 Learning Go
+- 🌱 Learning Flutter & Go Lang
 - 🔍 Looking for internship opportunities
 
 <br/>  
