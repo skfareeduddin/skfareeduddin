@@ -1,13 +1,13 @@
 ### <h1 align="center">Syed Khaja Fareeduddin</h1>
 <!---<h3 align="center"> Flutter Developer </h3>-->
-<h3 align="center">I'm a passionate Flutter Developer based in Hyderabad, India.</h3>
+<!--<h3 align="center">I'm a passionate Flutter Developer based in Hyderabad, India.</h3>-->
+<h3 align="center">App Development Intern @ Stealth Startup</h3>
 <br />
 
 <!--- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.-->
 
-
-- 🌱 Learning Flutter & Go Lang
-- 🔍 Looking for internship opportunities
+- Learning Go lang.
+- Looking forward to collaborate on software development projects.
 
 <br/>  
 
@@ -18,7 +18,7 @@
 <img src="https://github.com/skfareeduddin/skfareeduddin/assets/82967660/c331ef4f-07f4-408b-8c19-c74d24f5a1cd" alt="Fareed Resume-2" width="400" height="600"> -->
 
 
-## My Skill Set  
+<!--## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -39,7 +39,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-<!--<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="35" /></a>-->
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="35" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -50,7 +50,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 
-</td></tr></table>  
+</td></tr></table>  -->
 
 <br/>  
 
