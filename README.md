@@ -1,7 +1,7 @@
 ### <h1 align="center">Syed Khaja Fareeduddin</h1>
 <!---<h3 align="center"> Flutter Developer </h3>-->
 <!--<h3 align="center">I'm a passionate Flutter Developer based in Hyderabad, India.</h3>-->
-<h3 align="center">App Development Intern @ Introvertish</h3>
+<h3 align="center">Mobile App Developer</h3>
 <br />
 
 <!--- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.-->
@@ -79,11 +79,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skfareeduddin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=skfareeduddin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />-->
 </div>
 
 <br/>
-<!--<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skfareeduddin&theme=algolia" alt="skfareeduddin" /></p></div>  -->
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skfareeduddin&theme=algolia" alt="skfareeduddin" /></p></div>
 
 <!---[![Fareeduddin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skfareeduddin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
