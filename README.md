@@ -1,12 +1,12 @@
 ### <h1 align="center">Syed Khaja Fareeduddin</h1>
 <!---<h3 align="center"> Flutter Developer </h3>-->
 <!--<h3 align="center">I'm a passionate Flutter Developer based in Hyderabad, India.</h3>-->
-<h3 align="center">Mobile App Developer</h3>
+<h3 align="center">Flutter Developer</h3>
 <br />
 
 <!--- I'm currently working as a Mobile App Developer at Lords TBI where I help startups with their product development.-->
 
-- Learning Go lang.
+- Aspiring Machine Learning Engineer.
 - Looking forward to collaborate on software development projects.
 
 <br/>  
