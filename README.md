@@ -75,14 +75,12 @@
   <img height src="https://github-readme-stats.vercel.app/api?username=skfareeduddin&show_icons=true&theme=algolia&count_private=true"/>
 </div>  
 
-<br/>
-
-<div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=skfareeduddin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />-->
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skfareeduddin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br/>
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skfareeduddin&theme=algolia" alt="skfareeduddin" /></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skfareeduddin&theme=algolia" alt="skfareeduddin" /></p></div>-->
 
 <!---[![Fareeduddin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skfareeduddin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
