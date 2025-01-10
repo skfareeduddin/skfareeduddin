@@ -72,8 +72,11 @@
 ## Github Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skfareeduddin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skfareeduddin&theme=algolia)
+  
   <!--<img height src="https://github-readme-stats.vercel.app/api?username=skfareeduddin&show_icons=true&theme=algolia&count_private=true"/>-->
-</div>  
+</div>
 
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skfareeduddin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
